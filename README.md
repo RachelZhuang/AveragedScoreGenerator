@@ -1,1 +1,1 @@
-# AveragedScoreGenerator
+## AveragedScoreGenerator
